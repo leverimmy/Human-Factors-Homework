@@ -6,6 +6,11 @@
 
 虽然 LED 照明效率高、能耗低，但将教室照明标准从 $500\;\mathrm{lx}$ 提高到 $1000\;\mathrm{lx}$ 可能会产生以下问题：
 
+1. **能耗增加**：尽管 LED 的能效较高，但照明标准的提升会直接导致能耗的增加，尤其是在大面积教室中，这种影响会更加显著。
+2. **眩光问题**：过高的照明亮度可能会引发眩光，影响学生的视觉舒适度，甚至可能导致视觉疲劳。
+3. **成本上升**：提高照明标准需要增加灯具数量或更换更高功率的灯具，这会增加初始安装成本和后续维护成本。
+4. **环境影响**：更高的能耗意味着更多的能源消耗，这可能会对环境造成额外的负担，不符合节能减排的可持续发展目标。
+
 ## Problem 2
 
 > (No need to submit) A classroom with an area of $100\;\mathrm{m}^2$, according to German DIN standard, the required illumination is $500\;\mathrm{lx}$. In order to meet this requirement, how many bulbs are at least required? (assume each bulb emits $1500\;\mathrm{lm}$ of light, and $80\%$ of the light can be effectively applied to the reading area)
