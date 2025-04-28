@@ -1,5 +1,7 @@
 # Human-Factors-Homework
 
+Repository for the codes of the homework of Human Factors, Spring 2025
+
 | 作业名称 | 内容 |
 | :-: | :-: |
 | homework1 | Chapter 2-1 |
