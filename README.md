@@ -7,3 +7,5 @@
 | Component-Arrangement | Component Arrangement Homework |
 | homework4 | Chapter 4-1, Chapter 4-2 |
 | homework5 | Chapter 15 |
+| homework6 | Paper Reading and Analysis |
+| homework7 | Chapter 8 |
