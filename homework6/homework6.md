@@ -12,19 +12,19 @@
    **Independent Variables**
 
    - Task Performing Condition (TPC):
-     - Levels: "Continuous" (no interruptions) and "Interrupted" (with social media interruptions).
+      - Levels: "Continuous" (no interruptions) and "Interrupted" (with social media interruptions).
    - Task Cognitive Level (TCL):
-     - Levels: "Skill-based," "Rule-based," and "Knowledge-based" tasks.
+      - Levels: "Skill-based," "Rule-based," and "Knowledge-based" tasks.
 
    **Dependent Variables**
 
    - Perceived Mental Workload
-     - Measured via NASA-TLX overall score.
+      - Measured via NASA-TLX overall score.
    - Physiological Indexes:
-     - ECG (Heart Rate [HR], LF/HF ratio, SDNN)
-     - EDA (Skin Conductance [SC])
+      - ECG (Heart Rate [HR], LF/HF ratio, SDNN)
+      - EDA (Skin Conductance [SC])
    - Primary Task Performance:
-     - Response Time (RT) and Error Rate.
+      - Response Time (RT) and Error Rate.
 2. Task difficulty levels were defined using Rasmussen’s cognitive taxonomy:
    - Skill-based tasks: Automatic, pattern-driven actions (e.g., visual tracking). Minimal cognitive effort, relying on stored motor patterns.
    - Rule-based tasks: Goal-oriented decisions using predefined rules (e.g., selecting the larger object). Moderate cognitive effort, requiring working memory for rule application.
